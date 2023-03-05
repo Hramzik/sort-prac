@@ -5,7 +5,7 @@
 
 #include "common.hpp"
 #include "tests.hpp"
-#include "insertion.hpp"
+#include "sorts.hpp"
 
 
 //--------------------------------------------------
